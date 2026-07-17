@@ -25,3 +25,15 @@ autocutpath_generator.zipを解凍し、実行する。windowsのセキュリテ
 
 ##  参考画像
 ![代替テキスト](images/image.png)
+
+##出力ファイル
+<pre>
+g1
+├── CMYKRe
+│   ├── path3
+│   └── image2
+├── xxx
+│   └── path2
+└── Cut
+    └── path1
+</pre>
