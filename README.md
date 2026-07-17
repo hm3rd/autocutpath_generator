@@ -5,8 +5,10 @@
 autocutpath_generator.zipを解凍し、実行する。windowsのセキュリティに引っ掛かるが実行できる。
 
 :::note warn
+
 警告
 もちろん悪意のあるファイルではないが、何かあった場合は自己責任でお願いします。
+
 :::
 
 :::note warn
