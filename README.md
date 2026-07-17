@@ -9,4 +9,4 @@ autocutpath_generator.zipを解凍し、実行する。windowsのセキュリテ
 作成したい画像(.png)を指定する。ここで使用する画像は作成したい部分が切り取られている(透過ファイル)前提です。
 
 ##  参考画像
-!["代替テキスト"]("images/image.png")
+![代替テキスト](images/image.png)
