@@ -1,6 +1,0 @@
-\# autocutpath\_generator
-
-
-
-\*\*test\*\*
-
