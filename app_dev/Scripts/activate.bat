@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\tsuda\AppData\Roaming\inkscape\extensions\test\app_dev
+set VIRTUAL_ENV=C:\Users\tsuda\Downloads\hobby_project\autocutpath_generator\app_dev
 
 if not defined PROMPT set PROMPT=$P$G
 

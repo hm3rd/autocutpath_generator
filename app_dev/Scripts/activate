@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\tsuda\AppData\Roaming\inkscape\extensions\test\app_dev"
+VIRTUAL_ENV="C:\Users\tsuda\Downloads\hobby_project\autocutpath_generator\app_dev"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
