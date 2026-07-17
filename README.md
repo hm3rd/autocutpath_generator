@@ -26,14 +26,14 @@ autocutpath_generator.zipを解凍し、実行する。windowsのセキュリテ
 ##  参考画像
 ![代替テキスト](images/image.png)
 
-##出力ファイル
+## 出力ファイルレイヤー構成
 <pre>
 g1
 ├── CMYKRe
-│   ├── path3
-│   └── image2
-├── xxx
-│   └── path2
+│   ├── path3   入力画像の輪郭のパス
+│   └── image2  入力画像
+├── White
+│   └── path2   入力画像の白塗りパス
 └── Cut
-    └── path1
+    └── path1   入力画像のオフセットパス + 台座パス
 </pre>
